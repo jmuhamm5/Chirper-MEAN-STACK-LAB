@@ -1,0 +1,37 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmuhamm5/mean-ang2-app.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Project",
+    "App"
+  ],
+  "author": "Jamil Muhammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmuhamm5/mean-ang2-app/issues"
+  },
+  "homepage": "https://github.com/jmuhamm5/mean-ang2-app#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "env": "0.0.2",
+    "express": "^4.16.2",
+    "fs-extra": "^4.0.2",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.13.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
